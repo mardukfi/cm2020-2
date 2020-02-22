@@ -13,6 +13,16 @@
 		55B108742400152D004BD7E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55B108722400152D004BD7E0 /* Main.storyboard */; };
 		55B108762400152F004BD7E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55B108752400152F004BD7E0 /* Assets.xcassets */; };
 		55B108792400152F004BD7E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55B108772400152F004BD7E0 /* LaunchScreen.storyboard */; };
+		55B1088A24001571004BD7E0 /* virus6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B1088024001571004BD7E0 /* virus6.jpg */; };
+		55B1088B24001571004BD7E0 /* virus7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B1088124001571004BD7E0 /* virus7.jpg */; };
+		55B1088C24001571004BD7E0 /* virus3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B1088224001571004BD7E0 /* virus3.jpg */; };
+		55B1088D24001571004BD7E0 /* virus2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B1088324001571004BD7E0 /* virus2.jpg */; };
+		55B1088E24001571004BD7E0 /* virus4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B1088424001571004BD7E0 /* virus4.jpg */; };
+		55B1088F24001571004BD7E0 /* virus8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B1088524001571004BD7E0 /* virus8.jpg */; };
+		55B1089024001571004BD7E0 /* virus1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B1088624001571004BD7E0 /* virus1.jpg */; };
+		55B1089124001571004BD7E0 /* virus5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B1088724001571004BD7E0 /* virus5.jpg */; };
+		55B1089224001571004BD7E0 /* virus10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B1088824001571004BD7E0 /* virus10.jpg */; };
+		55B1089324001571004BD7E0 /* virus9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B1088924001571004BD7E0 /* virus9.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +34,16 @@
 		55B108752400152F004BD7E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		55B108782400152F004BD7E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		55B1087A2400152F004BD7E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		55B1088024001571004BD7E0 /* virus6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = virus6.jpg; path = ../../../../../../../../../Downloads/virusAssets/virus6.jpg; sourceTree = "<group>"; };
+		55B1088124001571004BD7E0 /* virus7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = virus7.jpg; path = ../../../../../../../../../Downloads/virusAssets/virus7.jpg; sourceTree = "<group>"; };
+		55B1088224001571004BD7E0 /* virus3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = virus3.jpg; path = ../../../../../../../../../Downloads/virusAssets/virus3.jpg; sourceTree = "<group>"; };
+		55B1088324001571004BD7E0 /* virus2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = virus2.jpg; path = ../../../../../../../../../Downloads/virusAssets/virus2.jpg; sourceTree = "<group>"; };
+		55B1088424001571004BD7E0 /* virus4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = virus4.jpg; path = ../../../../../../../../../Downloads/virusAssets/virus4.jpg; sourceTree = "<group>"; };
+		55B1088524001571004BD7E0 /* virus8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = virus8.jpg; path = ../../../../../../../../../Downloads/virusAssets/virus8.jpg; sourceTree = "<group>"; };
+		55B1088624001571004BD7E0 /* virus1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = virus1.jpg; path = ../../../../../../../../../Downloads/virusAssets/virus1.jpg; sourceTree = "<group>"; };
+		55B1088724001571004BD7E0 /* virus5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = virus5.jpg; path = ../../../../../../../../../Downloads/virusAssets/virus5.jpg; sourceTree = "<group>"; };
+		55B1088824001571004BD7E0 /* virus10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = virus10.jpg; path = ../../../../../../../../../Downloads/virusAssets/virus10.jpg; sourceTree = "<group>"; };
+		55B1088924001571004BD7E0 /* virus9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = virus9.jpg; path = ../../../../../../../../../Downloads/virusAssets/virus9.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +81,16 @@
 				55B108702400152D004BD7E0 /* ViewController.swift */,
 				55B108722400152D004BD7E0 /* Main.storyboard */,
 				55B108752400152F004BD7E0 /* Assets.xcassets */,
+				55B1088624001571004BD7E0 /* virus1.jpg */,
+				55B1088324001571004BD7E0 /* virus2.jpg */,
+				55B1088224001571004BD7E0 /* virus3.jpg */,
+				55B1088424001571004BD7E0 /* virus4.jpg */,
+				55B1088724001571004BD7E0 /* virus5.jpg */,
+				55B1088024001571004BD7E0 /* virus6.jpg */,
+				55B1088124001571004BD7E0 /* virus7.jpg */,
+				55B1088524001571004BD7E0 /* virus8.jpg */,
+				55B1088924001571004BD7E0 /* virus9.jpg */,
+				55B1088824001571004BD7E0 /* virus10.jpg */,
 				55B108772400152F004BD7E0 /* LaunchScreen.storyboard */,
 				55B1087A2400152F004BD7E0 /* Info.plist */,
 			);
@@ -125,9 +155,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				55B1088A24001571004BD7E0 /* virus6.jpg in Resources */,
+				55B1088C24001571004BD7E0 /* virus3.jpg in Resources */,
 				55B108792400152F004BD7E0 /* LaunchScreen.storyboard in Resources */,
+				55B1089324001571004BD7E0 /* virus9.jpg in Resources */,
+				55B1088B24001571004BD7E0 /* virus7.jpg in Resources */,
+				55B1089224001571004BD7E0 /* virus10.jpg in Resources */,
 				55B108762400152F004BD7E0 /* Assets.xcassets in Resources */,
+				55B1089124001571004BD7E0 /* virus5.jpg in Resources */,
+				55B1088D24001571004BD7E0 /* virus2.jpg in Resources */,
+				55B1088E24001571004BD7E0 /* virus4.jpg in Resources */,
+				55B1089024001571004BD7E0 /* virus1.jpg in Resources */,
 				55B108742400152D004BD7E0 /* Main.storyboard in Resources */,
+				55B1088F24001571004BD7E0 /* virus8.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
