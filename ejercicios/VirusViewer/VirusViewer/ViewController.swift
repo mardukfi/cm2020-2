@@ -12,6 +12,8 @@ class ViewController: UITableViewController {
     var pictures = [String]()
     override func viewDidLoad() {
         super.viewDidLoad()
+        navigationController?.navigationBar.prefersLargeTitles = true
+        title = "Virus Viewer"
         let fm = FileManager.default
         let path = Bundle.main.resourcePath!
         let items = try! fm.contentsOfDirectory(atPath: path)
