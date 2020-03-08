@@ -7,26 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		559842D22414C8D500B36503 /* virus1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 559842CB2414C80100B36503 /* virus1.jpg */; };
+		559842D32414C8DC00B36503 /* virus2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 559842D02414C80100B36503 /* virus2.jpg */; };
+		559842D42414C8DC00B36503 /* virus3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 559842CA2414C80100B36503 /* virus3.jpg */; };
+		559842D52414C8DC00B36503 /* virus4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 559842D12414C80100B36503 /* virus4.jpg */; };
+		559842D62414C8DC00B36503 /* virus5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 559842CE2414C80100B36503 /* virus5.jpg */; };
+		559842D72414C8DC00B36503 /* virus6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 559842C92414C80100B36503 /* virus6.jpg */; };
+		559842D82414C8DC00B36503 /* virus7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 559842C82414C80100B36503 /* virus7.jpg */; };
+		559842D92414C8DC00B36503 /* virus8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 559842CC2414C80100B36503 /* virus8.jpg */; };
+		559842DA2414C8DC00B36503 /* virus9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 559842CF2414C80100B36503 /* virus9.jpg */; };
+		559842DB2414C8DC00B36503 /* virus10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 559842CD2414C80100B36503 /* virus10.jpg */; };
+		559842DD2414C91C00B36503 /* ImageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 559842DC2414C91C00B36503 /* ImageModel.swift */; };
 		55B1086D2400152D004BD7E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B1086C2400152D004BD7E0 /* AppDelegate.swift */; };
 		55B1086F2400152D004BD7E0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B1086E2400152D004BD7E0 /* SceneDelegate.swift */; };
 		55B108712400152D004BD7E0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B108702400152D004BD7E0 /* ViewController.swift */; };
 		55B108742400152D004BD7E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55B108722400152D004BD7E0 /* Main.storyboard */; };
 		55B108762400152F004BD7E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55B108752400152F004BD7E0 /* Assets.xcassets */; };
 		55B108792400152F004BD7E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55B108772400152F004BD7E0 /* LaunchScreen.storyboard */; };
-		55B1088A24001571004BD7E0 /* virus6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B1088024001571004BD7E0 /* virus6.jpg */; };
-		55B1088B24001571004BD7E0 /* virus7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B1088124001571004BD7E0 /* virus7.jpg */; };
-		55B1088C24001571004BD7E0 /* virus3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B1088224001571004BD7E0 /* virus3.jpg */; };
-		55B1088D24001571004BD7E0 /* virus2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B1088324001571004BD7E0 /* virus2.jpg */; };
-		55B1088E24001571004BD7E0 /* virus4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B1088424001571004BD7E0 /* virus4.jpg */; };
-		55B1088F24001571004BD7E0 /* virus8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B1088524001571004BD7E0 /* virus8.jpg */; };
-		55B1089024001571004BD7E0 /* virus1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B1088624001571004BD7E0 /* virus1.jpg */; };
-		55B1089124001571004BD7E0 /* virus5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B1088724001571004BD7E0 /* virus5.jpg */; };
-		55B1089224001571004BD7E0 /* virus10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B1088824001571004BD7E0 /* virus10.jpg */; };
-		55B1089324001571004BD7E0 /* virus9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B1088924001571004BD7E0 /* virus9.jpg */; };
 		55B108952409596D004BD7E0 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B108942409596D004BD7E0 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		559842C82414C80100B36503 /* virus7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = virus7.jpg; sourceTree = "<group>"; };
+		559842C92414C80100B36503 /* virus6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = virus6.jpg; sourceTree = "<group>"; };
+		559842CA2414C80100B36503 /* virus3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = virus3.jpg; sourceTree = "<group>"; };
+		559842CB2414C80100B36503 /* virus1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = virus1.jpg; sourceTree = "<group>"; };
+		559842CC2414C80100B36503 /* virus8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = virus8.jpg; sourceTree = "<group>"; };
+		559842CD2414C80100B36503 /* virus10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = virus10.jpg; sourceTree = "<group>"; };
+		559842CE2414C80100B36503 /* virus5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = virus5.jpg; sourceTree = "<group>"; };
+		559842CF2414C80100B36503 /* virus9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = virus9.jpg; sourceTree = "<group>"; };
+		559842D02414C80100B36503 /* virus2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = virus2.jpg; sourceTree = "<group>"; };
+		559842D12414C80100B36503 /* virus4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = virus4.jpg; sourceTree = "<group>"; };
+		559842DC2414C91C00B36503 /* ImageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageModel.swift; sourceTree = "<group>"; };
 		55B108692400152D004BD7E0 /* VirusViewer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VirusViewer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		55B1086C2400152D004BD7E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		55B1086E2400152D004BD7E0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -35,16 +47,6 @@
 		55B108752400152F004BD7E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		55B108782400152F004BD7E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		55B1087A2400152F004BD7E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		55B1088024001571004BD7E0 /* virus6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = virus6.jpg; path = ../../../../../../../../../Downloads/virusAssets/virus6.jpg; sourceTree = "<group>"; };
-		55B1088124001571004BD7E0 /* virus7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = virus7.jpg; path = ../../../../../../../../../Downloads/virusAssets/virus7.jpg; sourceTree = "<group>"; };
-		55B1088224001571004BD7E0 /* virus3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = virus3.jpg; path = ../../../../../../../../../Downloads/virusAssets/virus3.jpg; sourceTree = "<group>"; };
-		55B1088324001571004BD7E0 /* virus2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = virus2.jpg; path = ../../../../../../../../../Downloads/virusAssets/virus2.jpg; sourceTree = "<group>"; };
-		55B1088424001571004BD7E0 /* virus4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = virus4.jpg; path = ../../../../../../../../../Downloads/virusAssets/virus4.jpg; sourceTree = "<group>"; };
-		55B1088524001571004BD7E0 /* virus8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = virus8.jpg; path = ../../../../../../../../../Downloads/virusAssets/virus8.jpg; sourceTree = "<group>"; };
-		55B1088624001571004BD7E0 /* virus1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = virus1.jpg; path = ../../../../../../../../../Downloads/virusAssets/virus1.jpg; sourceTree = "<group>"; };
-		55B1088724001571004BD7E0 /* virus5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = virus5.jpg; path = ../../../../../../../../../Downloads/virusAssets/virus5.jpg; sourceTree = "<group>"; };
-		55B1088824001571004BD7E0 /* virus10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = virus10.jpg; path = ../../../../../../../../../Downloads/virusAssets/virus10.jpg; sourceTree = "<group>"; };
-		55B1088924001571004BD7E0 /* virus9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = virus9.jpg; path = ../../../../../../../../../Downloads/virusAssets/virus9.jpg; sourceTree = "<group>"; };
 		55B108942409596D004BD7E0 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -59,6 +61,49 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		559842C42414C78B00B36503 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				559842DC2414C91C00B36503 /* ImageModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		559842C52414C79800B36503 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				55B108722400152D004BD7E0 /* Main.storyboard */,
+				55B108772400152F004BD7E0 /* LaunchScreen.storyboard */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		559842C62414C7A500B36503 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				55B108702400152D004BD7E0 /* ViewController.swift */,
+				55B108942409596D004BD7E0 /* DetailViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		559842C72414C7F400B36503 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				559842CB2414C80100B36503 /* virus1.jpg */,
+				559842D02414C80100B36503 /* virus2.jpg */,
+				559842CA2414C80100B36503 /* virus3.jpg */,
+				559842D12414C80100B36503 /* virus4.jpg */,
+				559842CE2414C80100B36503 /* virus5.jpg */,
+				559842C92414C80100B36503 /* virus6.jpg */,
+				559842C82414C80100B36503 /* virus7.jpg */,
+				559842CC2414C80100B36503 /* virus8.jpg */,
+				559842CF2414C80100B36503 /* virus9.jpg */,
+				559842CD2414C80100B36503 /* virus10.jpg */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
 		55B108602400152D004BD7E0 = {
 			isa = PBXGroup;
 			children = (
@@ -78,24 +123,14 @@
 		55B1086B2400152D004BD7E0 /* VirusViewer */ = {
 			isa = PBXGroup;
 			children = (
+				559842C72414C7F400B36503 /* Assets */,
+				559842C62414C7A500B36503 /* Controllers */,
+				559842C52414C79800B36503 /* Views */,
+				559842C42414C78B00B36503 /* Models */,
 				55B1086C2400152D004BD7E0 /* AppDelegate.swift */,
 				55B1086E2400152D004BD7E0 /* SceneDelegate.swift */,
-				55B108702400152D004BD7E0 /* ViewController.swift */,
-				55B108722400152D004BD7E0 /* Main.storyboard */,
 				55B108752400152F004BD7E0 /* Assets.xcassets */,
-				55B1088624001571004BD7E0 /* virus1.jpg */,
-				55B1088324001571004BD7E0 /* virus2.jpg */,
-				55B1088224001571004BD7E0 /* virus3.jpg */,
-				55B1088424001571004BD7E0 /* virus4.jpg */,
-				55B1088724001571004BD7E0 /* virus5.jpg */,
-				55B1088024001571004BD7E0 /* virus6.jpg */,
-				55B1088124001571004BD7E0 /* virus7.jpg */,
-				55B1088524001571004BD7E0 /* virus8.jpg */,
-				55B1088924001571004BD7E0 /* virus9.jpg */,
-				55B1088824001571004BD7E0 /* virus10.jpg */,
-				55B108772400152F004BD7E0 /* LaunchScreen.storyboard */,
 				55B1087A2400152F004BD7E0 /* Info.plist */,
-				55B108942409596D004BD7E0 /* DetailViewController.swift */,
 			);
 			path = VirusViewer;
 			sourceTree = "<group>";
@@ -158,19 +193,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				55B1088A24001571004BD7E0 /* virus6.jpg in Resources */,
-				55B1088C24001571004BD7E0 /* virus3.jpg in Resources */,
 				55B108792400152F004BD7E0 /* LaunchScreen.storyboard in Resources */,
-				55B1089324001571004BD7E0 /* virus9.jpg in Resources */,
-				55B1088B24001571004BD7E0 /* virus7.jpg in Resources */,
-				55B1089224001571004BD7E0 /* virus10.jpg in Resources */,
+				559842D92414C8DC00B36503 /* virus8.jpg in Resources */,
+				559842D42414C8DC00B36503 /* virus3.jpg in Resources */,
 				55B108762400152F004BD7E0 /* Assets.xcassets in Resources */,
-				55B1089124001571004BD7E0 /* virus5.jpg in Resources */,
-				55B1088D24001571004BD7E0 /* virus2.jpg in Resources */,
-				55B1088E24001571004BD7E0 /* virus4.jpg in Resources */,
-				55B1089024001571004BD7E0 /* virus1.jpg in Resources */,
+				559842D52414C8DC00B36503 /* virus4.jpg in Resources */,
+				559842D32414C8DC00B36503 /* virus2.jpg in Resources */,
 				55B108742400152D004BD7E0 /* Main.storyboard in Resources */,
-				55B1088F24001571004BD7E0 /* virus8.jpg in Resources */,
+				559842DA2414C8DC00B36503 /* virus9.jpg in Resources */,
+				559842D22414C8D500B36503 /* virus1.jpg in Resources */,
+				559842D82414C8DC00B36503 /* virus7.jpg in Resources */,
+				559842DB2414C8DC00B36503 /* virus10.jpg in Resources */,
+				559842D72414C8DC00B36503 /* virus6.jpg in Resources */,
+				559842D62414C8DC00B36503 /* virus5.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -182,6 +217,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				55B108712400152D004BD7E0 /* ViewController.swift in Sources */,
+				559842DD2414C91C00B36503 /* ImageModel.swift in Sources */,
 				55B1086D2400152D004BD7E0 /* AppDelegate.swift in Sources */,
 				55B1086F2400152D004BD7E0 /* SceneDelegate.swift in Sources */,
 				55B108952409596D004BD7E0 /* DetailViewController.swift in Sources */,

@@ -14,15 +14,9 @@ class ViewController: UITableViewController {
         super.viewDidLoad()
         navigationController?.navigationBar.prefersLargeTitles = true
         title = "Virus Viewer"
-        let fm = FileManager.default
-        let path = Bundle.main.resourcePath!
-        let items = try! fm.contentsOfDirectory(atPath: path)
-        for item in items {
-            if item.hasPrefix("virus"){
-                pictures.append(item)
-                                }
-        }
-        print(pictures)
+        let imageModel = ImageModel()
+        pictures = imageModel.pictures
+        
     }
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return pictures.count

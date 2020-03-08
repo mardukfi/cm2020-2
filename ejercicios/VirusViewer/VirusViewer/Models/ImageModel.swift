@@ -7,3 +7,20 @@
 //
 
 import Foundation
+struct ImageModel {
+    var pictures = [String]()
+    init(){
+       let fm = FileManager.default
+        let path = Bundle.main.resourcePath!
+        print(path)
+        let items = try? fm.contentsOfDirectory(atPath: path)
+        if let items = items{
+            for item in items {
+                print(item)
+                if item.hasPrefix("virus"){
+                    pictures.append(item)
+                                    }
+            }
+        }
+    }
+}
