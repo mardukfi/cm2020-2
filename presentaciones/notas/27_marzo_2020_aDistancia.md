@@ -2,7 +2,7 @@
 - Link de la sesión https://web.microsoftstream.com/video/d8b6fbc8-c5fa-4c94-aac3-22d29f583abd
 
 - Se tuvo una sesion en línea para dudas sobre los temas nuevos vistos en los videos de 8:00 a 9:30 horas del viernes 27 de marzo, con la herramienta microsoft Teams
-- Se acordó una tarea (video de su pitch) para el vienes 3 de abrir y la entrega del trabajo final adelantado el 17 de abril (detalles en el texto más adelante)
+- Se acordó una tarea (video de su pitch) para el vienes 3 de abril y la entrega del trabajo final adelantado el 17 de abril (detalles en el texto más adelante)
 
 - Videos que hay que ver: Continuamos con los contenidos del sitio web https://www.hackingwithswift.com/100
   - Ver los videos del día seis  al día diez. (Son temas nuevos verlos con calma)
