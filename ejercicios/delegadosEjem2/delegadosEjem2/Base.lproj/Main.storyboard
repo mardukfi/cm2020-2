@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16096" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina5_5" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="delegadosEjem2" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="LOADING..." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PSb-t2-k6f">
+                                <rect key="frame" x="98" y="105" width="218" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="ySi-oY-7fB">
+                                <rect key="frame" x="197" y="358" width="20" height="20"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="20" id="XYd-bx-3gK"/>
+                                    <constraint firstAttribute="width" constant="20" id="wrU-E9-a7K"/>
+                                </constraints>
+                            </activityIndicatorView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="QMh-uE-FLo">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="ySi-oY-7fB" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="0ug-Nj-iqv"/>
+                            <constraint firstItem="QMh-uE-FLo" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="2vN-vW-3v8"/>
+                            <constraint firstItem="ySi-oY-7fB" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="3dD-Vv-wh3"/>
+                            <constraint firstItem="QMh-uE-FLo" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="CwP-cf-WSU"/>
+                            <constraint firstItem="QMh-uE-FLo" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="FbE-uX-tAO"/>
+                            <constraint firstItem="QMh-uE-FLo" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="aej-5F-2ib"/>
+                            <constraint firstItem="PSb-t2-k6f" firstAttribute="centerX" secondItem="ySi-oY-7fB" secondAttribute="centerX" id="dfm-av-oHe"/>
+                            <constraint firstItem="PSb-t2-k6f" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="105" id="hSP-lV-zKI"/>
+                            <constraint firstItem="PSb-t2-k6f" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="98" id="xIF-XF-dRb"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="activityIndicator" destination="ySi-oY-7fB" id="YGG-v8-bDo"/>
+                        <outlet property="imageView" destination="QMh-uE-FLo" id="uV9-wL-gmy"/>
+                        <outlet property="loadingLabel" destination="PSb-t2-k6f" id="aYq-oW-SXT"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="136.23188405797103" y="132.06521739130434"/>
+        </scene>
+    </scenes>
+</document>
